@@ -1,25 +1,74 @@
-[
-  {
-    "id": "ubiquitous-demo-2026-05-20",
-    "word": "ubiquitous",
-    "ipa_uk": "/juːˈbɪk.wɪ.təs/",
-    "part_of_speech": "adj",
-    "meaning_zh": "无处不在的；普遍存在的",
-    "color": "blue",
-    "audio_url": null,
-    "source": {
-      "id": "demo",
-      "title": "Calibration Demo",
+{
+  "sources": [
+    {
+      "id": "demo-innovation-delusion",
+      "title": "The Innovation Delusion",
+      "author": "Lee Vinsel & Andrew Russell",
+      "year": 2020,
+      "type": "book",
+      "cover_url": "https://covers.openlibrary.org/b/isbn/9780525575689-L.jpg",
+      "source_url": null,
+      "tags": ["innovation", "maintenance", "critique"],
+      "date_added": "2026-05-20"
+    },
+    {
+      "id": "demo-placeholder-source",
+      "title": "Calibration Demo Source",
       "author": null,
-      "year": 2026
+      "year": null,
+      "type": "article",
+      "cover_url": null,
+      "source_url": null,
+      "tags": ["demo"],
+      "date_added": "2026-05-20"
+    }
+  ],
+  "entries": [
+    {
+      "id": "ubiquitous-demo-1",
+      "word": "ubiquitous",
+      "ipa_uk": "/juːˈbɪk.wɪ.təs/",
+      "part_of_speech": "adj",
+      "meaning_zh": "无处不在的；普遍存在的",
+      "color": "blue",
+      "audio_url": null,
+      "source": {
+        "id": "demo-innovation-delusion",
+        "title": "The Innovation Delusion",
+        "author": "Lee Vinsel & Andrew Russell",
+        "year": 2020
+      },
+      "example": {
+        "text": "Brand identity has become ubiquitous in modern commerce, shaping how consumers perceive value at every touchpoint.",
+        "page": null,
+        "paragraph": null
+      },
+      "obsidian_uri": null,
+      "date_added": "2026-05-20",
+      "notes": "Demo entry — illustrates a source WITH a cover image fetched via ISBN."
     },
-    "example": {
-      "text": "Brand identity has become ubiquitous in modern commerce, shaping how consumers perceive value at every touchpoint.",
-      "page": null,
-      "paragraph": null
-    },
-    "obsidian_uri": null,
-    "date_added": "2026-05-20",
-    "notes": "Demo entry — safe to delete once Skill 4 populates real entries. Audio falls back to Cambridge Dictionary lookup when audio_url is null."
-  }
-]
+    {
+      "id": "paradigm-demo-2",
+      "word": "paradigm",
+      "ipa_uk": "/ˈpær.ə.daɪm/",
+      "part_of_speech": "n",
+      "meaning_zh": "范式；典范",
+      "color": "purple",
+      "audio_url": null,
+      "source": {
+        "id": "demo-placeholder-source",
+        "title": "Calibration Demo Source",
+        "author": null,
+        "year": null
+      },
+      "example": {
+        "text": "The dominant paradigm of innovation worship has obscured the everyday work of maintenance.",
+        "page": 14,
+        "paragraph": 2
+      },
+      "obsidian_uri": null,
+      "date_added": "2026-05-20",
+      "notes": "Demo entry — illustrates a source WITHOUT a cover (uses ornamental placeholder)."
+    }
+  ]
+}
