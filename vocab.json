@@ -1,0 +1,25 @@
+[
+  {
+    "id": "ubiquitous-demo-2026-05-20",
+    "word": "ubiquitous",
+    "ipa_uk": "/juːˈbɪk.wɪ.təs/",
+    "part_of_speech": "adj",
+    "meaning_zh": "无处不在的；普遍存在的",
+    "color": "blue",
+    "audio_url": null,
+    "source": {
+      "id": "demo",
+      "title": "Calibration Demo",
+      "author": null,
+      "year": 2026
+    },
+    "example": {
+      "text": "Brand identity has become ubiquitous in modern commerce, shaping how consumers perceive value at every touchpoint.",
+      "page": null,
+      "paragraph": null
+    },
+    "obsidian_uri": null,
+    "date_added": "2026-05-20",
+    "notes": "Demo entry — safe to delete once Skill 4 populates real entries. Audio falls back to Cambridge Dictionary lookup when audio_url is null."
+  }
+]
