@@ -8,7 +8,11 @@
       "type": "book",
       "cover_url": "https://covers.openlibrary.org/b/isbn/9780525575689-L.jpg",
       "source_url": null,
-      "tags": ["innovation", "maintenance", "critique"],
+      "tags": [
+        "innovation",
+        "maintenance",
+        "critique"
+      ],
       "date_added": "2026-05-20"
     },
     {
@@ -19,8 +23,26 @@
       "type": "article",
       "cover_url": null,
       "source_url": null,
-      "tags": ["demo"],
+      "tags": [
+        "demo"
+      ],
       "date_added": "2026-05-20"
+    },
+    {
+      "id": "lupton-design-is-storytelling-2017",
+      "title": "Design Is Storytelling",
+      "author": "Ellen Lupton",
+      "year": 2017,
+      "type": "book",
+      "cover_url": "https://covers.openlibrary.org/b/isbn/9781942303190-L.jpg",
+      "source_url": null,
+      "tags": [
+        "theory-concept",
+        "design",
+        "storytelling",
+        "visual-communication"
+      ],
+      "date_added": "2026-05-30"
     }
   ],
   "entries": [
@@ -69,6 +91,397 @@
       "obsidian_uri": null,
       "date_added": "2026-05-20",
       "notes": "Demo entry — illustrates a source WITHOUT a cover (uses ornamental placeholder)."
+    },
+    {
+      "id": "narrative-arc-lupton-design-is-storytelling-2017-20260530",
+      "word": "narrative arc",
+      "ipa_uk": "/ˈnær.ə.tɪv ɑːk/",
+      "part_of_speech": "n",
+      "meaning_zh": "叙事弧（故事从开端、发展到高潮、结局的结构曲线）",
+      "color": "purple",
+      "audio_url": null,
+      "source": {
+        "id": "lupton-design-is-storytelling-2017",
+        "title": "Design Is Storytelling",
+        "author": "Ellen Lupton",
+        "year": 2017
+      },
+      "example": {
+        "text": "Act I, \"Action,\" explores the patterns that underlie nearly every story, from the narrative arc to the hero's journey.",
+        "page": 12,
+        "paragraph": null
+      },
+      "obsidian_uri": "obsidian://advanced-uri?vault=research%20lab%20for%20myself&filepath=Sources%2FBooks%2FLupton%20-%20Design%20Is%20Storytelling%20-%202017%20%E2%80%94%20Overture%20%E2%80%94%20highlighted.md",
+      "date_added": "2026-05-30",
+      "notes": null
+    },
+    {
+      "id": "the-gaze-lupton-design-is-storytelling-2017-20260530",
+      "word": "the gaze",
+      "ipa_uk": "/ðə ɡeɪz/",
+      "part_of_speech": "n",
+      "meaning_zh": "凝视/注视（视觉理论中关于观看行为的概念）",
+      "color": "purple",
+      "audio_url": null,
+      "source": {
+        "id": "lupton-design-is-storytelling-2017",
+        "title": "Design Is Storytelling",
+        "author": "Ellen Lupton",
+        "year": 2017
+      },
+      "example": {
+        "text": "Concepts such as the gaze, Gestalt principles, and affordances reveal that perception is a dynamic process of creating order and meaning.",
+        "page": 13,
+        "paragraph": null
+      },
+      "obsidian_uri": "obsidian://advanced-uri?vault=research%20lab%20for%20myself&filepath=Sources%2FBooks%2FLupton%20-%20Design%20Is%20Storytelling%20-%202017%20%E2%80%94%20Overture%20%E2%80%94%20highlighted.md",
+      "date_added": "2026-05-30",
+      "notes": null
+    },
+    {
+      "id": "gestalt-principles-lupton-design-is-storytelling-2017-20260530",
+      "word": "Gestalt principles",
+      "ipa_uk": "/ɡəˈʃtælt ˈprɪn.sə.plz/",
+      "part_of_speech": "n",
+      "meaning_zh": "格式塔原则（人脑将零散元素感知为整体的组织规律）",
+      "color": "purple",
+      "audio_url": null,
+      "source": {
+        "id": "lupton-design-is-storytelling-2017",
+        "title": "Design Is Storytelling",
+        "author": "Ellen Lupton",
+        "year": 2017
+      },
+      "example": {
+        "text": "Concepts such as the gaze, Gestalt principles, and affordances reveal that perception is a dynamic process of creating order and meaning.",
+        "page": 13,
+        "paragraph": null
+      },
+      "obsidian_uri": "obsidian://advanced-uri?vault=research%20lab%20for%20myself&filepath=Sources%2FBooks%2FLupton%20-%20Design%20Is%20Storytelling%20-%202017%20%E2%80%94%20Overture%20%E2%80%94%20highlighted.md",
+      "date_added": "2026-05-30",
+      "notes": null
+    },
+    {
+      "id": "affordance-lupton-design-is-storytelling-2017-20260530",
+      "word": "affordance",
+      "ipa_uk": "/əˈfɔː.dəns/",
+      "part_of_speech": "n",
+      "meaning_zh": "可供性（物体外形所暗示的用法）",
+      "color": "purple",
+      "audio_url": null,
+      "source": {
+        "id": "lupton-design-is-storytelling-2017",
+        "title": "Design Is Storytelling",
+        "author": "Ellen Lupton",
+        "year": 2017
+      },
+      "example": {
+        "text": "Concepts such as the gaze, Gestalt principles, and affordances reveal that perception is a dynamic process of creating order and meaning.",
+        "page": 13,
+        "paragraph": null
+      },
+      "obsidian_uri": "obsidian://advanced-uri?vault=research%20lab%20for%20myself&filepath=Sources%2FBooks%2FLupton%20-%20Design%20Is%20Storytelling%20-%202017%20%E2%80%94%20Overture%20%E2%80%94%20highlighted.md",
+      "date_added": "2026-05-30",
+      "notes": null
+    },
+    {
+      "id": "signage-lupton-design-is-storytelling-2017-20260530",
+      "word": "signage",
+      "ipa_uk": "/ˈsaɪ.nɪdʒ/",
+      "part_of_speech": "n",
+      "meaning_zh": "标识/导视系统（指示牌等视觉指引）",
+      "color": "purple",
+      "audio_url": null,
+      "source": {
+        "id": "lupton-design-is-storytelling-2017",
+        "title": "Design Is Storytelling",
+        "author": "Ellen Lupton",
+        "year": 2017
+      },
+      "example": {
+        "text": "The signage system used in New York City's subway was—and is—a brilliant work of problem solving.",
+        "page": 9,
+        "paragraph": null
+      },
+      "obsidian_uri": "obsidian://advanced-uri?vault=research%20lab%20for%20myself&filepath=Sources%2FBooks%2FLupton%20-%20Design%20Is%20Storytelling%20-%202017%20%E2%80%94%20Overture%20%E2%80%94%20highlighted.md",
+      "date_added": "2026-05-30",
+      "notes": null
+    },
+    {
+      "id": "sans-serif-lupton-design-is-storytelling-2017-20260530",
+      "word": "sans serif",
+      "ipa_uk": "/ˌsæn ˈser.ɪf/",
+      "part_of_speech": "n",
+      "meaning_zh": "无衬线字体（笔画末端无装饰的字体）",
+      "color": "purple",
+      "audio_url": null,
+      "source": {
+        "id": "lupton-design-is-storytelling-2017",
+        "title": "Design Is Storytelling",
+        "author": "Ellen Lupton",
+        "year": 2017
+      },
+      "example": {
+        "text": "Massimo Vignelli and Bob Noorda deployed sans serif type and bright dots of color to unify a network of deteriorating stations.",
+        "page": 9,
+        "paragraph": null
+      },
+      "obsidian_uri": "obsidian://advanced-uri?vault=research%20lab%20for%20myself&filepath=Sources%2FBooks%2FLupton%20-%20Design%20Is%20Storytelling%20-%202017%20%E2%80%94%20Overture%20%E2%80%94%20highlighted.md",
+      "date_added": "2026-05-30",
+      "notes": null
+    },
+    {
+      "id": "typography-lupton-design-is-storytelling-2017-20260530",
+      "word": "typography",
+      "ipa_uk": "/taɪˈpɒɡ.rə.fi/",
+      "part_of_speech": "n",
+      "meaning_zh": "字体排印（文字的设计与排版）",
+      "color": "purple",
+      "audio_url": null,
+      "source": {
+        "id": "lupton-design-is-storytelling-2017",
+        "title": "Design Is Storytelling",
+        "author": "Ellen Lupton",
+        "year": 2017
+      },
+      "example": {
+        "text": "Fascinated by critical theory, I have written about relationships between writing and typography.",
+        "page": 9,
+        "paragraph": null
+      },
+      "obsidian_uri": "obsidian://advanced-uri?vault=research%20lab%20for%20myself&filepath=Sources%2FBooks%2FLupton%20-%20Design%20Is%20Storytelling%20-%202017%20%E2%80%94%20Overture%20%E2%80%94%20highlighted.md",
+      "date_added": "2026-05-30",
+      "notes": null
+    },
+    {
+      "id": "mar-lupton-design-is-storytelling-2017-20260530",
+      "word": "mar",
+      "ipa_uk": "/mɑː/",
+      "part_of_speech": "v",
+      "meaning_zh": "损害/破坏（美感或体验）",
+      "color": "blue",
+      "audio_url": null,
+      "source": {
+        "id": "lupton-design-is-storytelling-2017",
+        "title": "Design Is Storytelling",
+        "author": "Ellen Lupton",
+        "year": 2017
+      },
+      "example": {
+        "text": "Roadblocks and obstacles mar the experience and slow us down.",
+        "page": 13,
+        "paragraph": null
+      },
+      "obsidian_uri": "obsidian://advanced-uri?vault=research%20lab%20for%20myself&filepath=Sources%2FBooks%2FLupton%20-%20Design%20Is%20Storytelling%20-%202017%20%E2%80%94%20Overture%20%E2%80%94%20highlighted.md",
+      "date_added": "2026-05-30",
+      "notes": null
+    },
+    {
+      "id": "onslaught-lupton-design-is-storytelling-2017-20260530",
+      "word": "onslaught",
+      "ipa_uk": "/ˈɒn.slɔːt/",
+      "part_of_speech": "n",
+      "meaning_zh": "猛攻；接连不断的冲击",
+      "color": "blue",
+      "audio_url": null,
+      "source": {
+        "id": "lupton-design-is-storytelling-2017",
+        "title": "Design Is Storytelling",
+        "author": "Ellen Lupton",
+        "year": 2017
+      },
+      "example": {
+        "text": "...a senseless onslaught of pop-up windows.",
+        "page": 13,
+        "paragraph": null
+      },
+      "obsidian_uri": "obsidian://advanced-uri?vault=research%20lab%20for%20myself&filepath=Sources%2FBooks%2FLupton%20-%20Design%20Is%20Storytelling%20-%202017%20%E2%80%94%20Overture%20%E2%80%94%20highlighted.md",
+      "date_added": "2026-05-30",
+      "notes": null
+    },
+    {
+      "id": "cumbersome-lupton-design-is-storytelling-2017-20260530",
+      "word": "cumbersome",
+      "ipa_uk": "/ˈkʌm.bə.səm/",
+      "part_of_speech": "adj",
+      "meaning_zh": "笨重的；累赘麻烦的",
+      "color": "blue",
+      "audio_url": null,
+      "source": {
+        "id": "lupton-design-is-storytelling-2017",
+        "title": "Design Is Storytelling",
+        "author": "Ellen Lupton",
+        "year": 2017
+      },
+      "example": {
+        "text": "Each scene in these everyday dramas can be pleasurable or cumbersome, depending on how the experience has been planned.",
+        "page": 13,
+        "paragraph": null
+      },
+      "obsidian_uri": "obsidian://advanced-uri?vault=research%20lab%20for%20myself&filepath=Sources%2FBooks%2FLupton%20-%20Design%20Is%20Storytelling%20-%202017%20%E2%80%94%20Overture%20%E2%80%94%20highlighted.md",
+      "date_added": "2026-05-30",
+      "notes": null
+    },
+    {
+      "id": "quell-lupton-design-is-storytelling-2017-20260530",
+      "word": "quell",
+      "ipa_uk": "/kwel/",
+      "part_of_speech": "v",
+      "meaning_zh": "平息；压制（情绪、疑虑）",
+      "color": "blue",
+      "audio_url": null,
+      "source": {
+        "id": "lupton-design-is-storytelling-2017",
+        "title": "Design Is Storytelling",
+        "author": "Ellen Lupton",
+        "year": 2017
+      },
+      "example": {
+        "text": "Designers use stories to stir emotions and quell uncertainty, to illustrate facts and sway opinions.",
+        "page": 13,
+        "paragraph": null
+      },
+      "obsidian_uri": "obsidian://advanced-uri?vault=research%20lab%20for%20myself&filepath=Sources%2FBooks%2FLupton%20-%20Design%20Is%20Storytelling%20-%202017%20%E2%80%94%20Overture%20%E2%80%94%20highlighted.md",
+      "date_added": "2026-05-30",
+      "notes": null
+    },
+    {
+      "id": "encompass-lupton-design-is-storytelling-2017-20260530",
+      "word": "encompass",
+      "ipa_uk": "/ɪnˈkʌm.pəs/",
+      "part_of_speech": "v",
+      "meaning_zh": "包含；涵盖",
+      "color": "blue",
+      "audio_url": null,
+      "source": {
+        "id": "lupton-design-is-storytelling-2017",
+        "title": "Design Is Storytelling",
+        "author": "Ellen Lupton",
+        "year": 2017
+      },
+      "example": {
+        "text": "Scenario planning and design fiction encompass a range of tools and techniques for imagining unknown situations.",
+        "page": 12,
+        "paragraph": null
+      },
+      "obsidian_uri": "obsidian://advanced-uri?vault=research%20lab%20for%20myself&filepath=Sources%2FBooks%2FLupton%20-%20Design%20Is%20Storytelling%20-%202017%20%E2%80%94%20Overture%20%E2%80%94%20highlighted.md",
+      "date_added": "2026-05-30",
+      "notes": null
+    },
+    {
+      "id": "transformative-lupton-design-is-storytelling-2017-20260530",
+      "word": "transformative",
+      "ipa_uk": "/trænsˈfɔː.mə.tɪv/",
+      "part_of_speech": "adj",
+      "meaning_zh": "具变革性的；带来深刻改变的",
+      "color": "blue",
+      "audio_url": null,
+      "source": {
+        "id": "lupton-design-is-storytelling-2017",
+        "title": "Design Is Storytelling",
+        "author": "Ellen Lupton",
+        "year": 2017
+      },
+      "example": {
+        "text": "Perception is active and transformative.",
+        "page": 13,
+        "paragraph": null
+      },
+      "obsidian_uri": "obsidian://advanced-uri?vault=research%20lab%20for%20myself&filepath=Sources%2FBooks%2FLupton%20-%20Design%20Is%20Storytelling%20-%202017%20%E2%80%94%20Overture%20%E2%80%94%20highlighted.md",
+      "date_added": "2026-05-30",
+      "notes": null
+    },
+    {
+      "id": "limerick-lupton-design-is-storytelling-2017-20260530",
+      "word": "limerick",
+      "ipa_uk": "/ˈlɪm.ər.ɪk/",
+      "part_of_speech": "n",
+      "meaning_zh": "五行打油诗（一种诙谐韵诗）",
+      "color": "blue",
+      "audio_url": null,
+      "source": {
+        "id": "lupton-design-is-storytelling-2017",
+        "title": "Design Is Storytelling",
+        "author": "Ellen Lupton",
+        "year": 2017
+      },
+      "example": {
+        "text": "A story can be shorter than a limerick or as long as an epic poem.",
+        "page": 11,
+        "paragraph": null
+      },
+      "obsidian_uri": "obsidian://advanced-uri?vault=research%20lab%20for%20myself&filepath=Sources%2FBooks%2FLupton%20-%20Design%20Is%20Storytelling%20-%202017%20%E2%80%94%20Overture%20%E2%80%94%20highlighted.md",
+      "date_added": "2026-05-30",
+      "notes": null
+    },
+    {
+      "id": "status-quo-lupton-design-is-storytelling-2017-20260530",
+      "word": "status quo",
+      "ipa_uk": "/ˌsteɪ.təs ˈkwəʊ/",
+      "part_of_speech": "n",
+      "meaning_zh": "现状；维持现有局面",
+      "color": "blue",
+      "audio_url": null,
+      "source": {
+        "id": "lupton-design-is-storytelling-2017",
+        "title": "Design Is Storytelling",
+        "author": "Ellen Lupton",
+        "year": 2017
+      },
+      "example": {
+        "text": "...questioning the status quo, and plotting possible futures.",
+        "page": 12,
+        "paragraph": null
+      },
+      "obsidian_uri": "obsidian://advanced-uri?vault=research%20lab%20for%20myself&filepath=Sources%2FBooks%2FLupton%20-%20Design%20Is%20Storytelling%20-%202017%20%E2%80%94%20Overture%20%E2%80%94%20highlighted.md",
+      "date_added": "2026-05-30",
+      "notes": null
+    },
+    {
+      "id": "playbook-lupton-design-is-storytelling-2017-20260530",
+      "word": "playbook",
+      "ipa_uk": "/ˈpleɪ.bʊk/",
+      "part_of_speech": "n",
+      "meaning_zh": "策略手册；成套打法方案",
+      "color": "blue",
+      "audio_url": null,
+      "source": {
+        "id": "lupton-design-is-storytelling-2017",
+        "title": "Design Is Storytelling",
+        "author": "Ellen Lupton",
+        "year": 2017
+      },
+      "example": {
+        "text": "Design Is Storytelling is a playbook for creative action.",
+        "page": 12,
+        "paragraph": null
+      },
+      "obsidian_uri": "obsidian://advanced-uri?vault=research%20lab%20for%20myself&filepath=Sources%2FBooks%2FLupton%20-%20Design%20Is%20Storytelling%20-%202017%20%E2%80%94%20Overture%20%E2%80%94%20highlighted.md",
+      "date_added": "2026-05-30",
+      "notes": null
+    },
+    {
+      "id": "sway-lupton-design-is-storytelling-2017-20260530",
+      "word": "sway",
+      "ipa_uk": "/sweɪ/",
+      "part_of_speech": "v",
+      "meaning_zh": "左右；影响（看法、决定）",
+      "color": "blue",
+      "audio_url": null,
+      "source": {
+        "id": "lupton-design-is-storytelling-2017",
+        "title": "Design Is Storytelling",
+        "author": "Ellen Lupton",
+        "year": 2017
+      },
+      "example": {
+        "text": "Designers use stories to stir emotions and quell uncertainty, to illustrate facts and sway opinions.",
+        "page": 13,
+        "paragraph": null
+      },
+      "obsidian_uri": "obsidian://advanced-uri?vault=research%20lab%20for%20myself&filepath=Sources%2FBooks%2FLupton%20-%20Design%20Is%20Storytelling%20-%202017%20%E2%80%94%20Overture%20%E2%80%94%20highlighted.md",
+      "date_added": "2026-05-30",
+      "notes": null
     }
   ]
 }
